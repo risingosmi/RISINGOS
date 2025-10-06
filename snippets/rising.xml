@@ -34,7 +34,7 @@
            fetch="https://github.com/"
            sync-c="true"
            sync-j="4" />
-
+  
   <!-- Art -->
   <project path="art" name="android_art" groups="pdk" remote="rising" />
 
